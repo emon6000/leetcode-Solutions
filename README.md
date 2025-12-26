@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/emon6000/leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## String
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/emon6000/leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/emon6000/leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
