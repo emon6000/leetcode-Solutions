@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/emon6000/leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2485-find-the-pivot-integer](https://github.com/emon6000/leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -46,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/emon6000/leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2485-find-the-pivot-integer](https://github.com/emon6000/leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
