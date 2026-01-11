@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/emon6000/leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/emon6000/leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/emon6000/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/emon6000/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/emon6000/leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/emon6000/leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Sorting
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/emon6000/leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/emon6000/leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/emon6000/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/emon6000/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/emon6000/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
