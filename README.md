@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/emon6000/leetcode-Solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/emon6000/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/emon6000/leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/emon6000/leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/emon6000/leetcode-Solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/emon6000/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
