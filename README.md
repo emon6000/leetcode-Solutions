@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0263-ugly-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/emon6000/leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2485-find-the-pivot-integer](https://github.com/emon6000/leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## String
