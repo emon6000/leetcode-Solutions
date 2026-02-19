@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/emon6000/leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/emon6000/leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/emon6000/leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0696-count-binary-substrings](https://github.com/emon6000/leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/emon6000/leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/emon6000/leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/emon6000/leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/emon6000/leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/emon6000/leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/emon6000/leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
