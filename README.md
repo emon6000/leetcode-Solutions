@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/emon6000/leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0263-ugly-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/emon6000/leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2485-find-the-pivot-integer](https://github.com/emon6000/leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/emon6000/leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/emon6000/leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/emon6000/leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/emon6000/leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/emon6000/leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -150,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
 | [0868-binary-gap](https://github.com/emon6000/leetcode-Solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
