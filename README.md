@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0504-base-7](https://github.com/emon6000/leetcode-Solutions/tree/master/0504-base-7) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/emon6000/leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2485-find-the-pivot-integer](https://github.com/emon6000/leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/emon6000/leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/emon6000/leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/emon6000/leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/emon6000/leetcode-Solutions/tree/master/0504-base-7) |
 | [0696-count-binary-substrings](https://github.com/emon6000/leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/emon6000/leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
