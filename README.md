@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/emon6000/leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/emon6000/leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/emon6000/leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/emon6000/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
@@ -161,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0868-binary-gap](https://github.com/emon6000/leetcode-Solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
