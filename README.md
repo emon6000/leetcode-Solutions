@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/emon6000/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -157,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0868-binary-gap](https://github.com/emon6000/leetcode-Solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
