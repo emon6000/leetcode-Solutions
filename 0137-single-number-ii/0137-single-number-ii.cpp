@@ -2,7 +2,7 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         // sort(nums.begin(),nums.end());
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         int ans;
         int l = nums.size();
         for(int i=0;i<l;i++){
