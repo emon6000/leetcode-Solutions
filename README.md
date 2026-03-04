@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/emon6000/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/emon6000/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/emon6000/leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/emon6000/leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/emon6000/leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/emon6000/leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/emon6000/leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/emon6000/leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/emon6000/leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0190-reverse-bits) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/emon6000/leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/emon6000/leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/emon6000/leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
