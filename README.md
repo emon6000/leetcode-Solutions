@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/emon6000/leetcode-Solutions/tree/master/0504-base-7) |
 | [0696-count-binary-substrings](https://github.com/emon6000/leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/emon6000/leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/emon6000/leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/emon6000/leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
