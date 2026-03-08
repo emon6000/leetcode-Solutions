@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/emon6000/leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/emon6000/leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/emon6000/leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/emon6000/leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/emon6000/leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/emon6000/leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/emon6000/leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/emon6000/leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/emon6000/leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/emon6000/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -198,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/emon6000/leetcode-Solutions/tree/master/0078-subsets) |
+| [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
