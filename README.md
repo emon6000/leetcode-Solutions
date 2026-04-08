@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/emon6000/leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/emon6000/leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/emon6000/leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/emon6000/leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/emon6000/leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/emon6000/leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/emon6000/leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
 | ------- |
