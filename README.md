@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/emon6000/leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/emon6000/leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/emon6000/leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
 | ------- |
