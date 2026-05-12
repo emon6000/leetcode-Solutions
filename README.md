@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/emon6000/leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/emon6000/leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/emon6000/leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/emon6000/leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/emon6000/leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1914-cyclically-rotating-a-grid](https://github.com/emon6000/leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/emon6000/leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/emon6000/leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/emon6000/leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/emon6000/leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/emon6000/leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/emon6000/leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/emon6000/leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/emon6000/leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/emon6000/leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
