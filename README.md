@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/emon6000/leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2363-merge-similar-items](https://github.com/emon6000/leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2553-separate-the-digits-in-an-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/emon6000/leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/emon6000/leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/emon6000/leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/emon6000/leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2363-merge-similar-items](https://github.com/emon6000/leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/emon6000/leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Matrix
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/emon6000/leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/emon6000/leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2363-merge-similar-items](https://github.com/emon6000/leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/emon6000/leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Stack
 |  |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/emon6000/leetcode-Solutions/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/emon6000/leetcode-Solutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
