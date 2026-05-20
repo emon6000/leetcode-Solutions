@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2363-merge-similar-items](https://github.com/emon6000/leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2553-separate-the-digits-in-an-array](https://github.com/emon6000/leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/emon6000/leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/emon6000/leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/emon6000/leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1980-find-unique-binary-string](https://github.com/emon6000/leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2363-merge-similar-items](https://github.com/emon6000/leetcode-Solutions/tree/master/2363-merge-similar-items) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/emon6000/leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/emon6000/leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Stack
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/emon6000/leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/emon6000/leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/emon6000/leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
