@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/emon6000/leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/emon6000/leetcode-Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/emon6000/leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/emon6000/leetcode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/emon6000/leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/emon6000/leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/emon6000/leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/emon6000/leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/emon6000/leetcode-Solutions/tree/master/0476-number-complement) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/emon6000/leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/emon6000/leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
